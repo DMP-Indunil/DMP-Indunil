@@ -17,7 +17,6 @@
 const prasanna = {
     name: "Prasanna Indunil",
     nickname: "Heaven ✨",
-    location: "Sri Lanka 🇱🇰",
     role: "Frontend Developer",
     currentlyLearning: ["Java", "Advanced React Patterns"],
     passion: "Creating beautiful & functional web experiences",
