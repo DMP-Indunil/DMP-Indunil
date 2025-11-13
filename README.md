@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Passionate frontend developer and computer science student focused on building clean, responsive web applications. Currently pursuing my BSc in Computer Science while actively learning and developing projects.
+Passionate frontend developer and Software Engineering student focused on building clean, responsive web applications. Currently pursuing my BSc in Computer Science while actively learning and developing projects.
 
 ```javascript
 const prasanna = {
@@ -52,11 +52,11 @@ troubleshooting
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmp-indunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dmp-indunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmp-indunil&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmp-indunil&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmp-indunil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmp-indunil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
