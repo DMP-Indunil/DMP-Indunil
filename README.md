@@ -2,7 +2,7 @@
 
 # Prasanna Indunil
 
-**Frontend Developer | Computer Science Student**
+**Frontend Developer | Software Engineering Student**
 
 📍 Badulla, Sri Lanka | 🎓 Sabaragamuwa University of Sri Lanka
 
